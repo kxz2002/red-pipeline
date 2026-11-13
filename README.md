@@ -1,6 +1,6 @@
 # RED Pipeline
 
-> **Coming soon.** The complete code, configuration, and reproducibility instructions for the pipeline will be released here after the repository is整理 and documented.
+> **Coming soon.** The complete code, configuration, and reproducibility instructions for the pipeline will be released here after the repository has been organized and documented.
 
 This repository will host the open-source pipeline accompanying our paper on endpoint-level microservice anomaly detection and root-cause localization.
 
